@@ -1,5 +1,5 @@
 #ASCII art
-# This is image is a hint providing by ASCII art
+# This  image is a hint providing by ASCII art
 rock = '''
     _______
 ---'   ____)
